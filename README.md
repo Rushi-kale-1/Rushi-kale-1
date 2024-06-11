@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Rushi-kale-1
-- 👀 I’m interested in Frontend Develeopment, Backend Development with database connection.
-- 🌱 I’m currently have expertise in HTML, CSS, Javascript, React, Tailwind Css, Mui, Bootstrap, Git & github, Express.js, Node.js, mysql, Mongodb and PHP !
-- 💞️ I’m looking to collaborate on frontend development projects
-- 📫 How to reach me -> rishikale32@gmail.com 
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I'm always more of a process man than a goal guy, so this idea should be worth testing!
-
-
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
