@@ -4,7 +4,7 @@ Hello! I'm Rushikesh Kale, a Full Stack Developer, with a passion for Frontend D
 ## Skills
 
 - **Programming Languages**: C++, Python, Javascript, Php.
-- **Technologies**: Html, Css, Javascript, TailwindCss, MaterialUI, React, Bootstrap, Node.js, Express.js, Mongodb, MySql, Postman, Atlas Mongod, Docker.
+- **Technologies**: Html, Css, Javascript, TailwindCss, MaterialUI, React, Bootstrap, Node.js, Express.js, Mongodb, MySql, Postman, Atlas Mongod, Docker,K8.
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-kale-1&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
